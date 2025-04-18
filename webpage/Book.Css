@@ -1,0 +1,46 @@
+body {
+  background: #f0f4f8;
+
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+p {
+  margin: 20px 0;
+  font-size: 18px;
+  text-align: center;
+}
+a {
+  display: inline-block;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 8px;
+  color: #9c3c3c;
+  text-decoration: none;
+  transition: 0.3s;
+}
+botton {
+  display: inline-block;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 8px;
+  color: #fff;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.whatsapp2 {
+  background-color: rgb(168, 113, 113);
+  color: white;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+span {
+  color: #9c3c3c;
+  font-size: 18px;
+  text-align: center;
+}
